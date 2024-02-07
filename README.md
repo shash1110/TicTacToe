@@ -2,6 +2,8 @@
 
 This is a simple command-line Tic Tac Toe game implemented in Java. The game allows two players to take turns marking spaces on a 3x3 grid. The first player to align three of their marks in a row, column, or diagonal wins the game. If all spaces are filled without any player achieving three in a row, the game ends in a draw.
 
+![Game Screenshot](![image](https://github.com/shash1110/TicTacToe/assets/83292249/0d2b4f88-0340-49bb-8bea-a3e73ad878dd))
+
 ## Features
 
 - **Two Players**: Play against a friend or family member on the same computer.
